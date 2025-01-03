@@ -2,4 +2,4 @@
 <br>
 new repo
 <br>
-author -prahalad
+author -prahalad pandey
